@@ -26,4 +26,4 @@ Please Note:
 When running all algorithms at once (by keying 2 in the initial prompt), the user will be prompted to enter the workload twice.
 So please make sure to enter the same workload both times in order to have a fair comparison.
 
-###Made by Abhinav, Mohanad & Salman for OSC COMP2035
+### Made by Abhinav, Mohanad & Salman for OSC COMP2035

@@ -1,4 +1,4 @@
-# Process Scheduling in C#
+# Process Scheduling in C
 
 The program consists of four files:
 	1- main.c
@@ -17,6 +17,7 @@ After, that they are prompted to input the number of processes, the arrival time
 If the user successfully inputs the data, the results of round robin scheduling, Shortest Job First, and First Come First Serve algorithms respectively.
 
 ***Important***
+
 For the program to work correctly,
 1. it is a must for one of the processes to have an arrival time of 0
 2. Also, there cannot be a gap between 2 processes where no process arrives.
